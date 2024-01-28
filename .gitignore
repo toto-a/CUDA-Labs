@@ -8,3 +8,6 @@
 *add
 *add_cuda
 *.exe
+
+
+build/
